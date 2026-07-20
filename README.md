@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy José Enrique Martínez Hernández</h1>
 <h3 align="center">Desarrollador de Software en México</h3>
-<h2 align="center">DEn C# .NET</h2>
+<h2 align="center">En C# .NET</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skate1989&label=Profile%20views&color=0e75b6&style=flat" alt="skate1989" /> </p>
 
 - 📫 Cómo contactarme **skate17_1989@hotmail.com**
